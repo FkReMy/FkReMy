@@ -5,9 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fkremy" alt="fkremy" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/fkremy" target="blank"><img src="https://img.shields.io/twitter/follow/fkremy?logo=twitter&style=for-the-badge" alt="fkremy" /></a> </p>
+
+- 🔭 I’m currently working on **Image Processing Toolbox**
+
 - 🌱 I’m currently learning **Matlab**
 
+- 💬 Ask me about **Backend Development**
+
 - 📫 How to reach me **fekryjunior@gamil.com**
+
+- ⚡ Fun fact **I like watching Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,6 +23,7 @@
 <a href="https://linkedin.com/in/fkremy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fkremy" height="30" width="40" /></a>
 <a href="https://fb.com/fkremy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fkremy" height="30" width="40" /></a>
 <a href="https://instagram.com/fkremy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fkremy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/fekryjunior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fekryjunior" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
