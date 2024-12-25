@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Backend Development**
 
-- 📫 How to reach me **fekryjunior@gamil.com**
+- 📫 How to reach me **fekryjunior@gmail.com**
 
 - ⚡ Fun fact **I like watching Anime**
 
