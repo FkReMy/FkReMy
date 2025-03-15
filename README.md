@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/fkremy" target="blank"><img src="https://img.shields.io/twitter/follow/fkremy?logo=twitter&style=for-the-badge" alt="fkremy" /></a> </p>
 
-- 🔭 I’m currently working on **Image Processing Toolbox**
+- 🔭 I’m currently working on **Computer Vision Model**
 
-- 🌱 I’m currently learning **Matlab**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **Backend Development**
 
